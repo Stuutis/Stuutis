@@ -1,33 +1,22 @@
-### Hello World👋
+# Hello World! 👋
 
-<!--
-**Stuutis/Stuutis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--!>
+# Sobre mim 🚀
 
-<p>My name is Christian i'm learning for become a great developer.</p>
-<p> I'm currently learning </p>
+Eu sou o Christian, desenvolvedor full-stack, atualmente no terceiro semestre de Engenharia de Software na UNOESTE.
+Gosto de compartilhar meu conhecimento com todos, sou monitor na disciplina de Algoritmos e Estrutura de Dados.
 
-<div>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
-            
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
-          
-          </div>
-          
- <p> Tchnologies that I have experience</p>
- <div> 
- 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/>
-          
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-            
-             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
-          
- </div>
- <p styles="margin-top:20px"> Contacts </p>
- <div>
- <a href="https://www.linkedin.com/in/christian-butkevicis-584904220/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- </div>
-       
-      
-          
+
+# Tecnologias 
+
+ - JavaScript 
+ -  TypeScript 
+ - Node Js 
+ - React 
+ - HTML 
+ - CSS 
+ - TailWindCSS
+
+## Links
+
+![enter image description here](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)
+![enter image description here](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
